@@ -5,23 +5,21 @@ table {
 .odd{
 	background-color:#ffffff;
   border: 1px solid #ccc;	
+	border-radius 5px;
+	padding:8px;
 
 }
 .even{
 	background-color:#f2f2f2;
 	border:1px solid #ccc;
+	border-radius 5px;
+	padding:8px;
 
 }
 .head{
 	border:1px solid #ccc;
 	border-radius 5px;
+	padding:8px;
 	
 }
-td{
-		border-radius 5px;
-	padding: 8px;
-}
-th{
-		border-radius 5px;
-	padding: 8px;
-}
+
